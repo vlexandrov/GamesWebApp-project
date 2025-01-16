@@ -1,5 +1,6 @@
 # Foreword
 **This is a project done with my colleagues Jeff and Kuvi for a web dev paper.**
+
 Disclaimer: the instructors for the paper has allowed this project to be made publicly available on our Github profiles to showcase the skills developed through the paper. Lecture was recorded when this was stated.
 
 # Games Web App Project
