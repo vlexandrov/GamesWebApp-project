@@ -1,5 +1,9 @@
-# COMPSCI 235 Starter Repository for the Games WebApp Assignments
-This is a starter repository for the games webapp assignments of CompSci 235 in Semester 2, 2023.
+# Foreword
+**This is a project done with my colleagues Jeff and Kuvi for a web dev paper.**
+Disclaimer: the instructors for the paper has allowed this project to be made publicly available on our Github profiles to showcase the skills developed through the paper. Lecture was recorded when this was stated.
+
+# Games Web App Project
+This is a starter repository for the games web app assignments of CompSci 235 in Semester 2, 2023.
 
 ## Description
 
